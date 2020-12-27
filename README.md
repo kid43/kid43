@@ -1,6 +1,6 @@
 💥 I'm Phong Le 💥
 
-<img  width="230" align="right" style="max-width:100%;" src="https://miro.medium.com/max/2400/1*rpHtt5VicGT3T-mVJJ2jFw.gif"/>
+<img  width="230" align="right" style="max-width:100%;" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
 
 # Mobile developer 👨🏻‍💻. 
 
